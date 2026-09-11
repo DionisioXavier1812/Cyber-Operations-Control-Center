@@ -1,0 +1,8 @@
+ioc,type,scenario
+
+185.211.44.10,ip,SatCom
+91.188.77.22,ip,Airport
+172.88.14.20,ip,PowerGrid
+103.77.184.20,ip,WaterPlant
+212.44.17.91,ip,Nuclear
+

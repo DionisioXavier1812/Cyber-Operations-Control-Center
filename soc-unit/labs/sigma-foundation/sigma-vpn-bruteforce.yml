@@ -1,0 +1,17 @@
+title: Multiple Failed VPN Logins
+
+id: SOC-001
+
+status: experimental
+
+logsource:
+  product: vpn
+
+detection:
+  selection:
+    EventType: LOGIN_FAILED
+
+condition: selection
+
+level: medium
+

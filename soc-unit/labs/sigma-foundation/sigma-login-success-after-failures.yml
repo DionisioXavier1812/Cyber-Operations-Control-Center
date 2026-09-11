@@ -1,0 +1,17 @@
+title: Successful Login After Multiple Failures
+
+id: SOC-002
+
+status: experimental
+
+logsource:
+  product: windows
+
+detection:
+  selection:
+    EventType: LOGIN_SUCCESS
+
+condition: selection
+
+level: high
+

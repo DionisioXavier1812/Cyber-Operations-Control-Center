@@ -1,0 +1,8 @@
+timestamp,event,source_ip,user,severity
+
+2026-09-11 08:10:21,LOGIN_FAILED,185.211.44.10,admin@tower,medium
+2026-09-11 08:11:10,LOGIN_FAILED,185.211.44.10,admin@tower,medium
+2026-09-11 08:12:33,LOGIN_FAILED,185.211.44.10,admin@tower,medium
+2026-09-11 08:13:14,LOGIN_SUCCESS,185.211.44.10,admin@tower,high
+2026-09-11 08:15:22,POWERSHELL_EXECUTION,185.211.44.10,admin@tower,critical
+

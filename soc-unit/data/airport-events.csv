@@ -1,0 +1,6 @@
+timestamp,event,source_ip,user,severity
+
+2026-09-11 09:10:00,LOGIN_FAILED,91.188.77.22,admin@airport,medium
+2026-09-11 09:11:00,LOGIN_FAILED,91.188.77.22,admin@airport,medium
+2026-09-11 09:12:00,LOGIN_SUCCESS,91.188.77.22,admin@airport,high
+
