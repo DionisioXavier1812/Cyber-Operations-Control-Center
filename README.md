@@ -2,7 +2,7 @@
 
 # Cyber Operations Control Center
 
-![Status](https://img.shieldsstatus-operational-green)
+![Status](https://img.shields.io/badgeerational-green)
 ![Focus](https://img.shields.io/badge/focusdefense-red)
 ![Domain](https://img.shields.io/badge/domain-cyber%20operations-blue)
 
