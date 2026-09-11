@@ -1,21 +1,22 @@
 # Sigma Lab
 
-## Missão
+Objetivo:
 
-Desenvolver regras Sigma para detecção de ameaças.
+Criar regras de detecção para os cenários OT/ICS.
 
-## Capacidades
+Cenários Cobertos:
 
-- Detection Engineering
-- IOC Detection
-- Threat Hunting
-- ATT&CK Mapping
+- SatCom
 
-## Projetos Relacionados
+- Airport
 
-- Mini-SOC
-- BlueTeam-Log-Analyzer
-- Projeto-Monitoramento-Deteccao-SOC
+- Power Grid
 
-Status: PLANEJADO
+- Water Plant
+
+- Nuclear Plant
+
+Status:
+
+PLANEJADO
 

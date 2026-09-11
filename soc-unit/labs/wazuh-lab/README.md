@@ -1,15 +1,18 @@
 # Wazuh Lab
 
-## Missão
+Objetivo:
 
-Centralizar logs e monitoramento de segurança.
+Centralizar eventos e alertas.
 
-## Capacidades
+Capacidades:
 
 - SIEM
-- HIDS
-- IOC Detection
-- Alerting
 
-Status: PLANEJADO
+- HIDS
+
+- IOC Detection
+
+Status:
+
+PLANEJADO
 

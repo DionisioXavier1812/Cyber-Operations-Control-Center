@@ -1,21 +1,20 @@
 # Sysmon Lab
 
-## Missão
+Objetivo:
 
-Coletar telemetria de endpoints Windows.
+Gerar telemetria para detecção.
 
-## Capacidades
+Fontes:
 
 - Process Creation
+
+- Registry
+
 - Network Connections
-- Registry Monitoring
-- PowerShell Monitoring
 
-## Integração
+- PowerShell
 
-- Sigma
-- Wazuh
-- DFIR
+Status:
 
-Status: PLANEJADO
+PLANEJADO
 
