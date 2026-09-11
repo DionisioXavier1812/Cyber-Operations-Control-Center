@@ -2,8 +2,8 @@
 
 # Cyber Operations Control Center
 
-![Status](https://img.shieldsstatus-operational-green
-![Focus](https://img.shields.io/badge/focusdefense-red
+![Status](https://img.shieldsstatus-operational-green)
+![Focus](https://img.shields.io/badge/focusdefense-red)
 ![Domain](https://img.shields.io/badge/domain-cyber%20operations-blue)
 
 Cyber Operations Control Center (COCC) é um ambiente integrado desenvolvido para consolidar competências em:
