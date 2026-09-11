@@ -191,7 +191,7 @@ strategic-defense-unit/
 
 ### LinkedIn
 
-https://www.linkedin.com/in/dionisio-xavier
+[https://www.linkedin.com/in/dionisio-xavier](https://www.linkedin.com/in/dion%C3%ADsio-xavier-a48b05188/)
 
 ### GitHub
 
