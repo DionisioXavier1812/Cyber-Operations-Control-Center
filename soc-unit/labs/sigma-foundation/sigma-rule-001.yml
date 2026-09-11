@@ -1,0 +1,14 @@
+title: Multiple Failed VPN Logins
+
+logsource:
+  product: network
+
+detection:
+  selection:
+    EventID:
+      - VPN_FAILED_LOGIN
+
+condition: selection
+
+level: medium
+

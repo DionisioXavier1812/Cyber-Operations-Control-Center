@@ -1,0 +1,14 @@
+title: Successful Login After Failures
+
+logsource:
+  product: windows
+
+detection:
+  selection:
+    EventID:
+      - LOGIN_SUCCESS
+
+condition: selection
+
+level: high
+

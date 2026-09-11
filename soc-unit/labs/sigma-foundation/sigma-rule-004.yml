@@ -1,0 +1,14 @@
+title: SCADA Configuration Change
+
+logsource:
+  product: scada
+
+detection:
+  selection:
+    Action:
+      - CONFIG_CHANGE
+
+condition: selection
+
+level: critical
+
